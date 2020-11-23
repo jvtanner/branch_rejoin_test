@@ -7,3 +7,5 @@ And again.
 One more time.
 
 Master takes another step alone.
+
+This time, writing on the branch1.
